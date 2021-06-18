@@ -1,0 +1,8 @@
+div.header {
+    padding: 25px;
+    text-align: center;
+    color: #fff;
+    background-color: crimson;
+    font-size: 32px;
+    font-weight: 700;
+}
